@@ -1,0 +1,9 @@
+*.pyc
+*env
+_archive
+*.csv
+ft.model
+ft.model.wv.vectors_ngrams.npy
+items_texts
+lightfm_model.pickle
+.python-version
