@@ -6,3 +6,4 @@ ft.model
 ft.model.wv.vectors_ngrams.npy
 items_texts
 lightfm_model.pickle
+final_project.tar
